@@ -1,6 +1,8 @@
 # UTS_Jarkom
 Nama : TEGAR TAMA WISNUSESA
+
 Nim : 20210801238
+
 Prodi : TEKNIK INFORMATIKA
 
 1.Routing static adalah konfigurasi jaringan yang diproses menggunakan tabel kemudian dikonfigurasi secara manual oleh seseorang administrator jaringan.
